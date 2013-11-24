@@ -15,6 +15,7 @@
 	</head>
 	<body>
 		<div id="nackDIV">Nack</div>
+		alert(555);
 		<div id="benzDIV" style="display:none">Benz</div>
 	</body>
 </html>
